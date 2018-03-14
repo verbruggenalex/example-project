@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Example project"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Example project"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -97,12 +97,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Alexander Verbruggen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  bio              : "I am the author of this example project."
+  location         : "Diest, Belgium"
+  email            : "verbruggenalex@gmail.com"
+  uri              : "https://github.com/verbruggenalex"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -110,7 +110,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/verbruggenalex"
   gitlab           :
   google_plus      :
   keybase          :
